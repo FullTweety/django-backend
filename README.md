@@ -23,7 +23,7 @@ git submodule update
 ## Setup Part 1 - Django Basics
 For being able to setup the very first part checkout tag `initial_setup`
 ```
-git checkout tags/initial_startpoint -b master
+git checkout tags/initial_startpoint
 ```
 
 # Django Commands
