@@ -1,0 +1,3 @@
+[submodule "tweety/static/startbootstrap-sb-admin-2"]
+	path = tweety/static/startbootstrap-sb-admin-2
+	url = https://github.com/StartBootstrap/startbootstrap-sb-admin-2.git
